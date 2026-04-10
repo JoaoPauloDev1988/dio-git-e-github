@@ -3,7 +3,6 @@
 \# DIO | Resumos Git e Github
 
 
-
 Repositório para armazenar  recursos sobre Git e Github do curso de Versionamento de código com Git e Github \[Dev em constante aprendizado](https://github.com/JoaoPauloDev1988)
 
 
@@ -24,6 +23,8 @@ Repositório para armazenar  recursos sobre Git e Github do curso de Versionamen
 
 |-------|--------|
 
+| Aula 01 |[Resumo]() |
+| Aula 02 |[Resumo]() |
 |Gravando Alterações no repositório local | \[Resumos]() |
 
 
