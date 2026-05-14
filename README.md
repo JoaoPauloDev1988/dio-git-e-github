@@ -9,7 +9,7 @@ Repositório para armazenar  recursos sobre Git e Github do curso de Versionamen
 
 \## 📔 Documentação
 
-\- \[Documentação Git](https://git-scm.com/docs/git/pt\_BR)
+\- \[Documentação Git]([https://git-scm.com/docs/git/pt\_BR](https://git-scm.com/docs))
 
 \- \[Documentação Github](https://docs.github.com/pt)
 
